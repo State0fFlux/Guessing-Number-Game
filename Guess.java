@@ -1,12 +1,10 @@
-// Brady Manske
-// 1/10/23
-// CS&145
-// Lab 1: Guessing Game
-
-// This program will play a guessing-numbers game
-// with the user a desired number of times,
-// and report the user's game statistics upon termination.
-
+/*
+ * This program will play a guessing-numbers game
+ * with the user a desired number of times,
+ * and report the user's game statistics upon termination.
+ * @author Brady Manske
+ * version 2023/01/11
+ */
 import java.util.*; // for Scanner & Random
 
 public class Guess {
